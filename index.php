@@ -1,10 +1,9 @@
 
 <!DOCTYPE html>
-<!-- file: views/professor/index.php -->
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>TAREA - 2 </title>
+<title>TAREA - 2 - SterbenStark</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/css/normalize.css">
@@ -12,7 +11,7 @@
 <style>
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Helvetica;
 }
 
 .topnav {
